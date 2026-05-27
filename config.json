@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailencrypt",
+        "uuid": 19380930,
+        "checksum": "cziay"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
